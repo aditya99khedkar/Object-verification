@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>rekha-modi-two-wheeler-traning-mira-road-thane-motor-training-schools-for-two-wheeler-9cmxlkyqx7.jpg</filename>
+	<path>C:\models-master\research\object_detection\images\train\rekha-modi-two-wheeler-traning-mira-road-thane-motor-training-schools-for-two-wheeler-9cmxlkyqx7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>924</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bike</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>729</xmin>
+			<ymin>308</ymin>
+			<xmax>1114</xmax>
+			<ymax>924</ymax>
+		</bndbox>
+	</object>
+</annotation>

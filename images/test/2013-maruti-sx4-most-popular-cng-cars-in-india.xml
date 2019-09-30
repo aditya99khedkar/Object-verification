@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>2013-maruti-sx4-most-popular-cng-cars-in-india.jpg</filename>
+	<path>C:\models-master\research\object_detection\images\test\2013-maruti-sx4-most-popular-cng-cars-in-india.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>630</width>
+		<height>339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>94</ymin>
+			<xmax>513</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

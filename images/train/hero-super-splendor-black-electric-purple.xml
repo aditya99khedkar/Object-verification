@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>hero-super-splendor-black-electric-purple.jpg</filename>
+	<path>C:\models-master\research\object_detection\images\train\hero-super-splendor-black-electric-purple.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>430</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>40</ymin>
+			<xmax>662</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>

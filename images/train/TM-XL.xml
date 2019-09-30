@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>TM-XL.png</filename>
+	<path>C:\models-master\research\object_detection\images\train\TM-XL.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>589</width>
+		<height>341</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Truck</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>5</ymin>
+			<xmax>589</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>

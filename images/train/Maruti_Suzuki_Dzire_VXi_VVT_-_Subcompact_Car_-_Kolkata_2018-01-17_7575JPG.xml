@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Maruti_Suzuki_Dzire_VXi_VVT_-_Subcompact_Car_-_Kolkata_2018-01-17_7575JPG.jpg</filename>
+	<path>C:\models-master\research\object_detection\images\train\Maruti_Suzuki_Dzire_VXi_VVT_-_Subcompact_Car_-_Kolkata_2018-01-17_7575JPG.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4288</width>
+		<height>2848</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>568</xmin>
+			<ymin>501</ymin>
+			<xmax>4224</xmax>
+			<ymax>2419</ymax>
+		</bndbox>
+	</object>
+</annotation>

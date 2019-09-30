@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>isuzu-truck-closed-body-isuzu-npr400-5m-van-body-2016-id-63571879-type-main.jpg</filename>
+	<path>C:\models-master\research\object_detection\images\train\isuzu-truck-closed-body-isuzu-npr400-5m-van-body-2016-id-63571879-type-main.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>111</ymin>
+			<xmax>639</xmax>
+			<ymax>454</ymax>
+		</bndbox>
+	</object>
+</annotation>

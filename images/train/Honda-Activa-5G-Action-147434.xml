@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Honda-Activa-5G-Action-147434.jpg</filename>
+	<path>C:\models-master\research\object_detection\images\train\Honda-Activa-5G-Action-147434.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>578</width>
+		<height>327</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>125</ymin>
+			<xmax>324</xmax>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+</annotation>

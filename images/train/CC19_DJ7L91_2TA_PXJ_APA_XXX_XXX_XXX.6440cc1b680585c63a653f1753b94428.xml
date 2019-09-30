@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>CC19_DJ7L91_2TA_PXJ_APA_XXX_XXX_XXX.6440cc1b680585c63a653f1753b94428.png</filename>
+	<path>C:\models-master\research\object_detection\images\train\CC19_DJ7L91_2TA_PXJ_APA_XXX_XXX_XXX.6440cc1b680585c63a653f1753b94428.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>509</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>79</ymin>
+			<xmax>770</xmax>
+			<ymax>468</ymax>
+		</bndbox>
+	</object>
+</annotation>

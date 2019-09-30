@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Rivian_Rivian_amazontruck_a-640x354.jpg</filename>
+	<path>C:\models-master\research\object_detection\images\train\Rivian_Rivian_amazontruck_a-640x354.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>354</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>18</ymin>
+			<xmax>597</xmax>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>

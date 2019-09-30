@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>FASTEST-MOTORCYCLING-IN-A-DAY--WOMAN-.jpg</filename>
+	<path>C:\models-master\research\object_detection\images\train\FASTEST-MOTORCYCLING-IN-A-DAY--WOMAN-.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>270</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bike</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>114</ymin>
+			<xmax>229</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

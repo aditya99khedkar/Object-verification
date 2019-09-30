@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Bottom_Banner_PickUP_Truck.jpg</filename>
+	<path>C:\models-master\research\object_detection\images\train\Bottom_Banner_PickUP_Truck.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>827</width>
+		<height>410</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Car</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>72</ymin>
+			<xmax>805</xmax>
+			<ymax>410</ymax>
+		</bndbox>
+	</object>
+</annotation>

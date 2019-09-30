@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>truck-pti-770x433.jpeg</filename>
+	<path>C:\models-master\research\object_detection\images\train\truck-pti-770x433.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>433</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Truck</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>470</xmax>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+</annotation>

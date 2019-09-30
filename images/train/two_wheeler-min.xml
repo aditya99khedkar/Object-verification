@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>two_wheeler-min.jpg</filename>
+	<path>C:\models-master\research\object_detection\images\train\two_wheeler-min.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1472</width>
+		<height>552</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1078</xmin>
+			<ymin>135</ymin>
+			<xmax>1381</xmax>
+			<ymax>538</ymax>
+		</bndbox>
+	</object>
+</annotation>

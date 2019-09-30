@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>marutisuzuki-alto-800-e159eb27-500x375.png</filename>
+	<path>C:\models-master\research\object_detection\images\train\marutisuzuki-alto-800-e159eb27-500x375.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>17</ymin>
+			<xmax>485</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+</annotation>

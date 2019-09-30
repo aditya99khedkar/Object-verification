@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>2019-08-ramtruck-incentive-hp-bento-1500-warlock-2019_c53dd4eb564a4f6617dea12d6c6db70f-2496x1248.jpg</filename>
+	<path>C:\models-master\research\object_detection\images\test\2019-08-ramtruck-incentive-hp-bento-1500-warlock-2019_c53dd4eb564a4f6617dea12d6c6db70f-2496x1248.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2496</width>
+		<height>1248</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>453</xmin>
+			<ymin>319</ymin>
+			<xmax>2092</xmax>
+			<ymax>1113</ymax>
+		</bndbox>
+	</object>
+</annotation>

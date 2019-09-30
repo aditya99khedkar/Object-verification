@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Mahindra-XUV500-Exterior-125643.jpg</filename>
+	<path>C:\models-master\research\object_detection\images\train\Mahindra-XUV500-Exterior-125643.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1278</width>
+		<height>722</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>53</ymin>
+			<xmax>1147</xmax>
+			<ymax>654</ymax>
+		</bndbox>
+	</object>
+</annotation>

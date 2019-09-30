@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>61u2BNKkFnmL._SX425_.jpg</filename>
+	<path>C:\models-master\research\object_detection\images\test\61u2BNKkFnmL._SX425_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>425</width>
+		<height>425</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>59</ymin>
+			<xmax>391</xmax>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+</annotation>

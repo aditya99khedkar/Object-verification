@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>starsky-Rosebud-candlestick.jpg</filename>
+	<path>C:\models-master\research\object_detection\images\train\starsky-Rosebud-candlestick.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>283</xmin>
+			<ymin>233</ymin>
+			<xmax>1038</xmax>
+			<ymax>692</ymax>
+		</bndbox>
+	</object>
+</annotation>

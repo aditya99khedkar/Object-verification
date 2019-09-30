@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Triumph-Tiger-Training-Academy-Splash.jpg</filename>
+	<path>C:\models-master\research\object_detection\images\train\Triumph-Tiger-Training-Academy-Splash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>875</width>
+		<height>583</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>274</xmin>
+			<ymin>214</ymin>
+			<xmax>678</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+</annotation>
